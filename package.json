@@ -1,0 +1,19 @@
+{
+  "name": "markdown-previewer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "marked": "^3.0.7",
+    "react": "^17.0.0",
+    "react-bootstrap": "^1.6.4",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.6.4"
+  }
+}
